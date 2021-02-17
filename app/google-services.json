@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "526608464765",
+    "project_id": "intellifyassignment",
+    "storage_bucket": "intellifyassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526608464765:android:13a70b30b08126a07fea14",
+        "android_client_info": {
+          "package_name": "com.example.intellifyassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526608464765-g63576kr69nodu58o4hrpdeksnch0lvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intellifyassignment",
+            "certificate_hash": "3be6602a643d975c53e1f5e829bc4cca24fd7314"
+          }
+        },
+        {
+          "client_id": "526608464765-lkgkq4duslmn8tja7c3atvdetava6bia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCKAnVARUJtd0QqUaGAYJpiAkVPjWI7TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526608464765-lkgkq4duslmn8tja7c3atvdetava6bia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
